@@ -21,6 +21,7 @@ body {
 
 #ribbon {
   padding: 1em;
+  font-weight: bold;
   text-align: right;
 }
 
