@@ -77,7 +77,7 @@ p, li {
   line-height: 1.5em;
 }
 
-.fgrid {
+.features {
   width: 100%;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
@@ -87,12 +87,12 @@ p, li {
   text-align: center;
 }
 
-.fgrid li {
+.features li {
   margin-bottom: 1em;
   padding: 0.5em;
 }
 
-.fgrid img {
+.features img {
   margin: 1em;
   width: 35%;
   min-width: 50px;
@@ -111,18 +111,6 @@ p, li {
   margin-bottom: 1em;
 }
 
-.duplex h2 {
-}
-
 ul {
   margin: 1em;
 }
-
-/*
-@media only screen and (min-device-width: 375px) and (max-device-width: 667px) {
-  .duplex {
-    display: block;
- 
-  }
-}
-*/
